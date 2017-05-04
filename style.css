@@ -1,0 +1,26 @@
+nav {
+	padding:5px;
+}
+
+nav ul {
+	list-style: none !important
+}
+
+ nav li {
+ 	/*float: left;*/
+ }
+
+ nav li a {
+ 	text-decoration: none;
+ }
+
+ nav li a:hover {
+ 	color:rgb(215,156,246);
+ }
+
+ #navbar {
+ 	background-color: rgb(156,246,245);
+ 	width:100%;
+ 	border: 2px solid red;
+ 	padding: 10px;
+ }
